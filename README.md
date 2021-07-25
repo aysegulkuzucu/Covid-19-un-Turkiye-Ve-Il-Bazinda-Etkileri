@@ -1,2 +1,4 @@
-# Bitirme-Projesi2
+# Bitirme-Projesi
+
+Proje raporuna göz atın : https://aysegulkuzucu.github.io/Bitirme-Projesi/
  
