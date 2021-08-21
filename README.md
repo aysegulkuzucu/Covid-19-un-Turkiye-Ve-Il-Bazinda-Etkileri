@@ -1,4 +1,4 @@
-# Bitirme-Projesi
+# Graduation-Project
 
-Proje raporuna göz atın : https://aysegulkuzucu.github.io/Bitirme-Projesi/
+Review the project report : https://aysegulkuzucu.github.io/Covid-19-un-Turkiye-Ve-Il-Bazinda-Etkileri/
  
